@@ -5,4 +5,6 @@ elif (age >= 18):
     print("You can vote")
 else:
     print("bhaad me jaao tum ")
+
+  
     
