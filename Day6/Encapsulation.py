@@ -12,5 +12,7 @@ class Bank:
         return self.__balance
     
 
+
+
 a1 = Bank('rajiv',2000)
 print(a1.name, a1.get_balance())
