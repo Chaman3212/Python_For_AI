@@ -4,3 +4,7 @@ def print_digit(n):
         print(" ",n%10)
         n=n//10
 print_digit(n)
+
+def print_table(n):
+    for i in range(n):
+        print(n)
